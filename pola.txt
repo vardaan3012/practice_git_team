@@ -1,4 +1,8 @@
 amitpola
+<<<<<<< HEAD
 hello and welcomes
 hello guys codeforgood
+=======
+hello changes done by vardaan
+>>>>>>> pola
 vardaan
